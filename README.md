@@ -58,4 +58,44 @@ Content Engine is a project designed to answer user prompts related to multiple 
 
 3. **Ask questions**: Enter your prompts related to the content of the uploaded PDFs and receive answers and insights.
 
+## Project Structure
+
+content-engine/
+│
+├── app.py # Main entry point for the Streamlit app
+├── requirements.txt # List of dependencies
+├── .env.example # Example environment variables file
+├── README.md # Project documentation
+├── utils/
+│ ├── pdf_processor.py # PDF processing and extraction logic
+│ ├── query_handler.py # Logic for handling user queries
+│ └── model_manager.py # Managing language models and embeddings
+└── data/
+└── sample_pdfs/ # Sample PDFs for testing
+
+
+
+## Contributing
+
+We welcome contributions to improve the Content Engine. To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+
+## Live Demo
+
+Check out the live demo of the Content Engine on Streamlit:
+
+[Content Engine Web App](https://gemini-vwkkzpkttfg7hdqvtwrwuz.streamlit.app/)
+
+---
+
+By following the instructions above, you should be able to set up and run the Content Engine locally. For any issues or questions, feel free to open an issue on GitHub.
+
+
+
 
