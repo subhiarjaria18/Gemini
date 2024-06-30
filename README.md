@@ -58,22 +58,7 @@ Content Engine is a project designed to answer user prompts related to multiple 
 
 3. **Ask questions**: Enter your prompts related to the content of the uploaded PDFs and receive answers and insights.
 
-## Project Structure
-
-content-engine/
-│
-├── app.py # Main entry point for the Streamlit app
-├── requirements.txt # List of dependencies
-├── .env.example # Example environment variables file
-├── README.md # Project documentation
-├── utils/
-│ ├── pdf_processor.py # PDF processing and extraction logic
-│ ├── query_handler.py # Logic for handling user queries
-│ └── model_manager.py # Managing language models and embeddings
-└── data/
-└── sample_pdfs/ # Sample PDFs for testing
-
-
+---
 
 ## Contributing
 
