@@ -58,5 +58,4 @@ Content Engine is a project designed to answer user prompts related to multiple 
 
 3. **Ask questions**: Enter your prompts related to the content of the uploaded PDFs and receive answers and insights.
 
-## Project Structure
 
