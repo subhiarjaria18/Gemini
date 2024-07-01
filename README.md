@@ -2,6 +2,9 @@
 
 Content Engine is a project designed to answer user prompts related to multiple PDF documents provided by the user. It leverages the power of language models and advanced data retrieval techniques to analyze, compare, and generate insights from PDF documents.
 
+![interface](2.png)
+
+
 ## Features
 
 - Analyze multiple PDF documents.
