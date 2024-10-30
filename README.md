@@ -1,6 +1,6 @@
-# Content Engine
+# ASK PDF
 
-Content Engine is a project designed to answer user prompts related to multiple PDF documents provided by the user. It leverages the power of language models and advanced data retrieval techniques to analyze, compare, and generate insights from PDF documents.
+ASK PDF is a project designed to answer user prompts related to multiple PDF documents provided by the user. It leverages the power of language models and advanced data retrieval techniques to analyze, compare, and generate insights from PDF documents.
 
 ![interface](test_run/2.png)
 
