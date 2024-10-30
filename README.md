@@ -26,7 +26,7 @@ ASK PDF is a project designed to answer user prompts related to multiple PDF doc
 - **langchain-community**: Community-supported modules and extensions for LangChain.
 
 ## Installation
-
+(name changed)
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/subhiarjaria18/content-engine.git
@@ -76,9 +76,9 @@ We welcome contributions to improve the Content Engine. To contribute:
 
 ## Live Demo
 
-Check out the live demo of the Content Engine on Streamlit:
+Check out the live demo of the ASK PDF on Streamlit:
 
-[Content Engine Web App](https://gemini-vwkkzpkttfg7hdqvtwrwuz.streamlit.app/)
+[ASK PDF Web App](https://gemini-vwkkzpkttfg7hdqvtwrwuz.streamlit.app/)
 
 ---
 
